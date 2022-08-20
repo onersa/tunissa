@@ -1,0 +1,9 @@
+#image {
+    max-width:50%;
+    height :auto;
+    display: block;
+}
+
+#img-div {
+    width: 100%;
+}
